@@ -5,4 +5,4 @@ function generateOddSeries(a) {
   }
   return result;
 }
-console.log("Output:", generateOddSeries(4).join(', ')); // 1, 3, 5, 7
+console.log("Output:", generateOddSeries(4).join(', '));
