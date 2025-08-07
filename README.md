@@ -6,7 +6,6 @@ This repository contains the solutions for the **Stage 1 Screening Test** for th
 
 - **Name**: Omkar Akubattin
 - **Language Used**: JavaScript (Node.js)
-- **Test Duration**: 60 Minutes
 - **Submission Format**: 4 separate files for each problem
 
 ---
