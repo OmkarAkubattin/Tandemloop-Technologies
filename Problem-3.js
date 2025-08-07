@@ -6,6 +6,4 @@ function generateOddSeriesConditional(a) {
   }
   return result;
 }
-
-// Example usage
-console.log("Output:", generateOddSeriesConditional(6).join(', ')); // 1, 3, 5, 7, 9
+console.log("Output:", generateOddSeriesConditional(6).join(', '));
